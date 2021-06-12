@@ -1,7 +1,3 @@
-theme: jekyll-theme-cayman
-title: Victoria Cooper
-subtitle: Portfolio
-
 ### About Me
 Hi there! I am a curious individual looking to gain experience in data analysis in order to reach valuable insights. I want to explore some questions and unknowns by finding trends, patterns and order in some messy and chaotic data.
 I am a recent graduate from Western Washington University where I completed a Bachelor's of Science in mathematics, accompanied by minors in phyics and astronomy. My education has allowed me to develop a thinking process that stems from critical thinking and problem solving. This sometimes can lead to a surprising number of a variety of different questions, which only drives my curiousity further.
