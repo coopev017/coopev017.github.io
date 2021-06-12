@@ -23,6 +23,6 @@ Here, I am to post insights and conclusions based on data from open source datab
 ## Contact Info
 Email cooperv017@gmail.com  
 Phone (425)301-8687  
-Here, access to my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/victoria-cooperv017/)
+[LinkedIn](https://www.linkedin.com/in/victoria-cooperv017/)
 
 
