@@ -1,8 +1,6 @@
-## Victoria Cooper
-### Portfolio
- 
-Here, I will house projects I have completed with the data analysis process. These case studies will showcase a variety of my skills and improvement along the way, all while dabbling in topics that I love and have interests in!
-
+theme: jekyll-theme-cayman
+title: Victoria Cooper
+subtitle: Portfolio
 
 ### About Me
 Hi there! I am a curious individual looking to gain experience in data analysis in order to reach valuable insights. I want to explore some questions and unknowns by finding trends, patterns and order in some messy and chaotic data.
@@ -16,7 +14,7 @@ I also love art and opportunities to be creative. So when I discovered the abili
 
 ### Goal
 
-I aim to grow and improve these skills mentioned by working through case studies of various topics in order to become a well-rounded analyst. I will be experimenting and dabbling in different areas in each case study to.
+I aim to grow and improve these skills mentioned by working through case studies of various topics in order to become a well-rounded analyst. I will be experimenting and dabbling in different skills in each case study to, all while working with topics I love and have interest in. 
 My goal is not perfection, it is improvement.
 
 ### Statement of Originality
