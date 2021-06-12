@@ -12,12 +12,15 @@ I aim to become a well-rounded data analyst and a data interpreter.
 I hope to be given an opportunity that allows me to further my knowledge and continously grow and change for the better.
 
 #### Statement of Originality
-Here, I am to post insights and conclusions based on data from open source databases. This work is my own and the origins of the data will be posted with my conclusions. Thank you.
+Here, I am to post insights and conclusions based on data from open source databases. This work is my own and the origins of the data will be posted with each case study. Thank you.
 
 ### SDSS Case Study
 Uploaded 06/12/2021  
 *Last updated: 06/11/2021*  
+**Context**  
 In this case study, my motivation was to explore skills I obtained during the certificate I earned. I wanted to do this while also researching a topic that I thoroughly enjoy. By no means is this an immaculate case study, but I wanted to see what I could do on a fairly basic level, and I had fun working through it.  
+**Acknowledgements**  
+Data accessed through BigQuery: big query-public-data.blackholedatabase.sdssdr7  
   
 Data used [sdss_dr7_z.csv](https://github.com/coopev017/coopev017.github.io/files/6642784/sdss_dr7_z.csv)  
 Documentation: [sdss doc.pdf](https://github.com/coopev017/coopev017.github.io/files/6642783/sdss_doc.pdf)   
@@ -26,7 +29,11 @@ Presentation: [sdss_pres.pdf](https://github.com/coopev017/coopev017.github.io/f
 ### Bella Beat Case Study
 Uploaded 06/12/2021  
 *Last updated 05/03/2021*  
+**Context**  
 This case study was completed as part of the Google Data Analytics Certificate Capstone Project. The scenario was given by the curriculum and it was my task to find trends and pattern in a secondary sources data that may help Bella Beat spot opportunities in its own products. As this is my very first case study, I am content with how it came out, however I do hop to revisit this prompt in the future in order to gauge improvement.  
+**Acknowledgements**  
+Data provide by Mobius (kaggle) https://www.kaggle.com/arashnic/fitbit
+Thank you for the data.  
   
 Data used: [daily_activity.csv](https://github.com/coopev017/coopev017.github.io/files/6642805/daily_activity.csv)  
 [daily_intensities.csv](https://github.com/coopev017/coopev017.github.io/files/6642806/daily_intensities.csv)  
