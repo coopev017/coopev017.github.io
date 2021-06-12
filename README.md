@@ -1,7 +1,6 @@
 ## Victoria Cooper
 ### Portfolio
-
-cooperv017@gmail.com  (425)301-8687  Bellingham, WA  
+ 
 Here, I will house projects I have completed with the data analysis process. These case studies will showcase a variety of my skills and improvement along the way, all while dabbling in topics that I love and have interests in!
 
 
@@ -23,7 +22,9 @@ My goal is not perfection, it is improvement.
 ### Statement of Originality
 Here, I am to post insights and conclusions based on data from open source databases. This work is my own and the origins of the data will be posted with my conclusions. Thank you.
 
-
+## Contact Info
+Email cooperv017@gmail.com  
+Phone (425)301-8687  
 Here, access to my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/victoria-cooperv017/)
 
 
