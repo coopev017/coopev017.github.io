@@ -21,7 +21,7 @@ Started 08/05/2021
 I am wanting to complete a project where I can practice the data analysis steps and also build a small program that may allow a user to explore the data themselves.  
 My first step is to clean and process the data. I feel it is at a well presentable stage now, which I will post here for safekeeping, however, it is subject to change and I will update accordingly.
 My next step will be to perform some statistical analysis and start asking some simple questions that will hopefully lead to more indepth questions and valuable insights!  
-Stay tuned for updates :)
+Stay tuned for updates :)  
 **Acknowledgements**
 Data accessed from Shivam Bansal on their [Kaggle page] (www.kaggle/chivamb/netflix-shows)
 
