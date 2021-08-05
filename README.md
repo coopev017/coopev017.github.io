@@ -27,6 +27,7 @@ Stay tuned for updates :)
 **Acknowledgements**  
 Data accessed from Shivam Bansal on their [Kaggle page] (www.kaggle/chivamb/netflix-shows)
 
+Original Data [netflix_titles.csv](https://github.com/coopev017/coopev017.github.io/files/6941937/netflix_titles.csv)  
 [Cleaned Data](https://docs.google.com/spreadsheets/d/1upprYx37raQ8pJ9LGigL0L1PEO3HmVeWA2SaveTqL4Q/edit?usp=sharing)  
 Documentation *as of 08/05/2021* [netflix-doc.pdf](https://github.com/coopev017/coopev017.github.io/files/6941775/netflix-doc.pdf)
 
