@@ -1,3 +1,4 @@
+# Portfolio
 ## About Me
 
 I am a recent graduate from Western Washington University where I completed a Bachelor's of Science in mathematics, accompanied by minors in phyics and astronomy. In order to gain some experience, I have also completed the Google Data Analytics Certificate which provided me with a solid foundation of the data analysis process and skill set. My education has allowed me to realize my love and interest for science and deep curiousity for the unknown and mysteries of the universe. I enjoy the process and outcomes of problem solving and reaching conclusions due to critical thinking and diligence, especially when the outcomes and conclusions are a surprise or unexpected. I have learned it takes a lot of mental endurance and grit to accomplish ones goals and push through what seems like the impossible. I am determined to pave my way, through math, science, data, where ever I may go. I am determined to make a difference.  
