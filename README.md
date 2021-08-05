@@ -25,7 +25,7 @@ My first step is to clean and process the data. I feel it is at a well presentab
 My next step will be to perform some statistical analysis and start asking some simple questions that will hopefully lead to more indepth questions and valuable insights!  
 Stay tuned for updates :)  
 **Acknowledgements**  
-Data accessed from Shivam Bansal on their [Kaggle page] (www.kaggle/shivamb/netflix-shows)
+Data accessed from Shivam Bansal on their [Kaggle page](www.kaggle/shivamb/netflix-shows)
 
 Original Data [netflix_titles.csv](https://github.com/coopev017/coopev017.github.io/files/6941937/netflix_titles.csv)  
 [Cleaned Data](https://docs.google.com/spreadsheets/d/1upprYx37raQ8pJ9LGigL0L1PEO3HmVeWA2SaveTqL4Q/edit?usp=sharing)  
@@ -50,7 +50,7 @@ Uploaded 06/12/2021
 **Context**  
 This case study was completed as part of the Google Data Analytics Certificate Capstone Project. The scenario was given by the curriculum and it was my task to find trends and pattern in a secondary sources data that may help Bella Beat spot opportunities in its own products. As this is my very first case study, I am content with how it came out, however I do hop to revisit this prompt in the future in order to gauge improvement.  
 **Acknowledgements**  
-Data provide by Mobius (kaggle) https://www.kaggle.com/arashnic/fitbit
+Data provide by Mobius on their [Kaggle page](https://www.kaggle.com/arashnic/fitbit)
 Thank you for the data.  
   
 Data used: [daily_activity.csv](https://github.com/coopev017/coopev017.github.io/files/6642805/daily_activity.csv)  
