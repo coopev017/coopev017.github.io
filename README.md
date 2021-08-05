@@ -14,6 +14,21 @@ I hope to be given an opportunity that allows me to further my knowledge and con
 #### Statement of Originality
 Here, I am to post insights and conclusions based on data from open source databases. This work is my own and the origins of the data will be posted with each case study. Thank you.
 
+### Netflix Project
+Started 08/05/2021
+*Last updated: 08/05/2021*
+**Context**
+I am wanting to complete a project where I can practice the data analysis steps and also build a small program that may allow a user to explore the data themselves.  
+My first step is to clean and process the data. I feel it is at a well presentable stage now, which I will post here for safekeeping, however, it is subject to change and I will update accordingly.
+My next step will be to perform some statistical analysis and start asking some simple questions that will hopefully lead to more indepth questions and valuable insights!  
+Stay tuned for updates :)
+**Acknowledgements**
+Data accessed from Shivam Bansal on their [Kaggle page] (www.kaggle/chivamb/netflix-shows)
+
+[Cleaned Data](https://docs.google.com/spreadsheets/d/1upprYx37raQ8pJ9LGigL0L1PEO3HmVeWA2SaveTqL4Q/edit?usp=sharing)  
+Documentation *as of 08/05/2021* [netflix-doc.pdf](https://github.com/coopev017/coopev017.github.io/files/6941775/netflix-doc.pdf)
+
+
 ### SDSS Case Study
 Uploaded 06/12/2021  
 *Last updated: 06/11/2021*  
@@ -40,7 +55,6 @@ Data used: [daily_activity.csv](https://github.com/coopev017/coopev017.github.io
 [daily_weight_log.csv](https://github.com/coopev017/coopev017.github.io/files/6642807/daily_weight_log.csv)  
 Documentation: [bellabeat_documentation.pdf](https://github.com/coopev017/coopev017.github.io/files/6642808/bellabeat_documentation.pdf)  
 Presentation: [Bellabeat Case Study.pdf](https://github.com/coopev017/coopev017.github.io/files/6642809/Bellabeat.Case.Study.pdf)  
-
 
 
 ## Contact Info
