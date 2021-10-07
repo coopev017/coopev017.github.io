@@ -21,7 +21,7 @@ Started 08/05/2021
 *Last updated: 10/07/2021*  
 **Context**  
 I am wanting to complete a project where I can practice the data analysis steps and also build a small program that may allow a user to explore the data themselves.  
-My first step is to clean and process the data. I feel it is at a well presentable stage now, which I will post here for safekeeping, however, it is subject to change and I will update accordingly.
+My first step is to clean and process the data. I feel it is at a well presentable stage now, which I will post here for safekeeping, however, it is subject to change and I will update accordingly.  
 *As of 10/07/2021* I am posting some visuals I created using Tableau. It is a simple dashboard consisting of two visualizations. The left viz displays the count of each genre available in the data. The more common genres have a darker hue and a larger bubble.  
 The right visual displays the number of shows/series in each country, and labels by count and different colors per country for easier identification.  
 
