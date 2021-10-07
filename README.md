@@ -18,15 +18,17 @@ Here, I am to post insights and conclusions based on data from open source datab
 
 ### Netflix Project
 Started 08/05/2021  
-*Last updated: 08/05/2021*  
+*Last updated: 10/07/2021*  
 **Context**  
 I am wanting to complete a project where I can practice the data analysis steps and also build a small program that may allow a user to explore the data themselves.  
 My first step is to clean and process the data. I feel it is at a well presentable stage now, which I will post here for safekeeping, however, it is subject to change and I will update accordingly.
-My next step will be to perform some statistical analysis and start asking some simple questions that will hopefully lead to more indepth questions and valuable insights!  
-Stay tuned for updates :)  
-**Acknowledgements**  
-Data accessed from Shivam Bansal on their [Kaggle page](www.kaggle/shivamb/netflix-shows)
+*As of 10/07/2021* I am posting some visuals I created using Tableau. It is a simple dashboard consisting of two visualizations. The left viz displays the count of each genre available in the data. The more common genres have a darker hue and a larger bubble.  
+The right visual displays the number of shows/series in each country, and labels by count and different colors per country for easier identification.  
 
+**Acknowledgements**  
+Data accessed from Shivam Bansal on their [Kaggle page](www.kaggle/shivamb/netflix-shows)  
+
+Dashboard [tableau link](https://public.tableau.com/app/profile/victoria.cooper2829/viz/Netflix_16336313064740/Dashboard1)  
 Original Data [netflix_titles.csv](https://github.com/coopev017/coopev017.github.io/files/6941937/netflix_titles.csv)  
 [Cleaned Data](https://docs.google.com/spreadsheets/d/1upprYx37raQ8pJ9LGigL0L1PEO3HmVeWA2SaveTqL4Q/edit?usp=sharing)  
 Documentation *as of 08/05/2021* [netflix-doc.pdf](https://github.com/coopev017/coopev017.github.io/files/6941775/netflix-doc.pdf)
