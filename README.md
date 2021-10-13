@@ -18,6 +18,7 @@ Here, I am to post insights and conclusions based on data from open source datab
 
 ### Brivity Project
 Uploaded: 10/08/2021  
+*Last updated: 10/13/2021*  
 **Context**  
 This project was completed to fulfill a number of simple tasks and objectives with a few raw data sets. Tools used were Microsoft SQL Server and Google Sheets. This report is an honest display of my current skill level with these tools. The report supplies a link to the processed data and raw data, as well as pivot tables and other summaries. Documentation is supplied as well for the steps taken to achieve the processed data.  
   
