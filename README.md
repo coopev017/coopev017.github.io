@@ -21,12 +21,11 @@ Uploaded: 10/08/2021
 **Context**  
 This project was completed to fulfill a number of simple tasks and objectives with a few raw data sets. Tools used were Microsoft SQL Server and Google Sheets. This report is an honest display of my current skill level with these tools. The report supplies a link to the processed data and raw data, as well as pivot tables and other summaries. Documentation is supplied as well for the steps taken to achieve the processed data.  
   
-I want to note that the report currently posted seems quite simple and elementary in skill. My goal is to post a fuller report that better represents my presentation skills. Thank you.
-  
 **Acknowledgements**  
 Thank you to Brivity for the data.
-  
-[Brivity Report.pdf](https://github.com/coopev017/coopev017.github.io/files/7313521/Brivity.Report.pdf) (Version 1)  
+ 
+For quick access to data [click here](https://docs.google.com/spreadsheets/d/1Fgoci4ZH2YHZuqcEQeaYT_3A0X9F73RQc2LI216aBO8/edit?usp=sharing)  
+[Brivity Report-2.pdf](https://github.com/coopev017/coopev017.github.io/files/7340449/Brivity.Report-2.pdf)  
 [brivity_markdown_doc.pdf](https://github.com/coopev017/coopev017.github.io/files/7313526/brivity_markdown_doc.pdf)  
 
 ### Netflix Project
