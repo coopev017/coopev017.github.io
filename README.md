@@ -1,12 +1,15 @@
 # Portfolio
 ## About Me
 
-I am a recent graduate from Western Washington University where I completed a Bachelor's of Science in mathematics, accompanied by minors in phyics and astronomy. In order to gain some experience, I have also completed the Google Data Analytics Certificate which provided me with a solid foundation of the data analysis process and skill set. My education has allowed me to realize my love and interest for science and deep curiousity for the unknown and mysteries of the universe. I enjoy the process and outcomes of problem solving and reaching conclusions due to critical thinking and diligence, especially when the outcomes and conclusions are a surprise or unexpected. I have learned it takes a lot of mental endurance and grit to accomplish ones goals and push through what seems like the impossible. I am determined to pave my way, through math, science, data, where ever I may go. I am determined to make a difference.  
+I am a recent graduate from Western Washington University where I completed a Bachelor's of Science in mathematics, accompanied by minors in phyics and astronomy. In order to gain experience, I have completed the Google Data Analytics Certificate which provided me with a solid foundation for a variety of technical skills and tools as well as a deep dive into the data analysis process.  
+I have a growing passion and interest for science and deep curiousity for the unknown and mysteries of the universe.  
+I enjoy the process of creative problem solving and reaching conclusions due to analysis, critical thinking and diligence.  
+I have learned it takes a lot of mental endurance and grit to accomplish goals and push through what seems like the impossible. I am determined to pave my way, through math, science, data or where ever I may go. I am determined to make a difference.  
   
-I am passionate about my own learning and only wish to continue to learn in all that I do. I do believe that learning never stops and growth never stops. I seek for an environment where change is a driving element and where courage, diverse ideas and passion are encouraged.  
+I am passionate about and dedicated to learning and only wish to continue to learn in all that I do. I believe that learning and growth are continous as long as the mind is curious. I seek for an environment where change is a driving element and where courage, diverse ideas and creativity are encouraged.  
 ### Goal
 
-At this time, I aim to grow and improve these skills mentioned by working through case studies of various topics in order to become a well-rounded analyst. I will be experimenting and dabbling in different skills in each case study to, all while working with topics I love and have interest in. 
+At this time, I aim to grow, improve and continously develop my technical skills by working through case studies of various topics in order to become a well-rounded analyst. I will be experimenting and dabbling in different skills in each case study to, all while working with topics I love and have interest in. 
 My goal is not perfection, it is improvement. 
 I aim to become a well-rounded data analyst and a data interpreter.
 I hope to be given an opportunity that allows me to further my knowledge and continously grow and change for the better.
